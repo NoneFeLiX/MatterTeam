@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Site</title>
+	<link rel='stylesheet' href='CSS/style.css'>
+</head>
+<body>
+	<script src='JS/main.js'></script>
+<div class="block">
+	<h1>Matter Team</h1>
+</div>
+<div class="box">
+	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quos vitae ipsa saepe magnam, totam sed, quis modi in eveniet eaque commodi fugiat aperiam. Atque nesciunt excepturi quam natus porro.</p>
+</div>
+<div class="dor">
+	<p>© 2023 MatterTeam LLC</p>
+</div>
+<div class="so">
+	<h2>Переходите в лучшую хакерскую тиму</h2>
+</div>
+
+<button onclick="soc()">
+	Hold that
+</button>
+
+</body>
+</html>
